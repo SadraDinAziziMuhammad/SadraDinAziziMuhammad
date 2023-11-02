@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadra Din Azizi Muhammad</h1>
-<h3 align="center">Undergraduate Informatics Engineering at Sultan Agung Islamic University | HTML/CSS | Skilvul #Tech4Impact Kampus Merdeka Cycle 5: Full-Stack Web Development</h3>
+<h3 align="center">Saya adalah seorang mahasiswa semester 5 jurusan Teknik Informatika di Universitas Islam Sultan Agung. Lulusan SMK jurusan Multimedia, saya memiliki latar belakang dalam desain yang memperkaya pemahaman saya dalam teknologi dan kreativitas. Saya memiliki hasrat dan rencana kuat untuk memperdalam pengetahuan dan keterampilan saya dalam pengembangan web full-stack, dengan tujuan menjadi seorang profesional yang kompeten di bidang ini</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadradinazizimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="sadradinazizimuhammad" /> </p>
 
