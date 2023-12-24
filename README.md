@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sadraazizi1305@gmail.com**
 
-#### 1. [Universitas Islam Sultan Agung](https://unissula.ac.id/) | Bachelor of Informatic Engineering | Yogyakarta `2021-Present`
+#### 1. [Universitas Islam Sultan Agung](https://unissula.ac.id/) | Bachelor of Informatic Engineering | Semarang `2021-Present`
 
 #### 2. [SMK Grafika Yayasan Lektur](https://dapo.kemdikbud.go.id/sekolah/7690FCF1106868889E94) | Multimedia | Jakarta `2018-2021`
 
